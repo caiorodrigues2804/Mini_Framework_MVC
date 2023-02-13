@@ -6,7 +6,7 @@
 
 ## Referências
 
-<a href="https://www.udemy.com/course/web-completo/?gclid=CjwKCAiA3KefBhByEiwAi2LDHHfKKucgBU7O8GOcQ7x1dILJ1HvG2bHQnmsTFhJTdZ4xr7T3nFCIKhoCcDAQAvD_BwE"><img src="Imagens/udemy_desenvolvimento_web_completo.jpeg" width="150px">&nbsp;Desenvolvimento Web Completo - 20 cursos + 20 projetos - Udemy</a>
+<a href="https://www.udemy.com/course/web-completo/?gclid=CjwKCAiA3KefBhByEiwAi2LDHHfKKucgBU7O8GOcQ7x1dILJ1HvG2bHQnmsTFhJTdZ4xr7T3nFCIKhoCcDAQAvD_BwE"><img style="border-radius: 50%" src="Imagens/udemy_desenvolvimento_web_completo.jpeg" width="150px">&nbsp;Desenvolvimento Web Completo - 20 cursos + 20 projetos - Udemy</a>
  
 
  
